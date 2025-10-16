@@ -28,11 +28,19 @@ I moved my project from kicad to easyeda due to footprints being on easy eda alr
 ![SCH_Schematic1_1-P1_2025-10-16.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0ea18cb5e947db377b683e56a928237183d339cc/SCH_Schematic1_1-P1_2025-10-16.png)
   
 
-## 10/16/2025 11 PM - Routed PCB  
+## 10/16/2025 11:26 PM - Routed PCB  
 
 I routed the pcb across 2 layers this design includes pin tabs that reach the outermost part of the board but causes errors as a consequence although this should be fine, at least I hope it will. This operates with 1x7 pins with the same pin out as the Seeed Studio Xiao Rp2040.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7675b58e7f4ded3de89d0830c38b6cabb6ed223a/image.png)
 
   
+
+## 10/16/2025 11:29 PM - Quick Render ;D  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--563d01eb91d56996a19f6d3b36476d40253ad063/image.png)
+
+** BEGINNING OF YAP **
+This is rendered with a blue pcb as it was the default pcb it gave me, this shows the individual parts of the pcb: resistors, mcu, capacitors, linear voltage regulator, usb-c port ( Universal Serial Bus - Type C )
+** END OF YAP **  
 
