@@ -20,11 +20,19 @@ Potentially even using the same footprint to make it potentially interchangeable
 ![Screenshot 2025-10-13 224015.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--a13cecdbc721870ebf5454fe54a473f8c8e8e33c/Screenshot%202025-10-13%20224015.png)
   
 
-## 10/16/2025 - Kicad to Easy Eda  
+## 10/16/2025 9 PM - Kicad to Easy Eda  
 
 I moved my project from kicad to easyeda due to footprints being on easy eda already which means I don't need to create each of the footprints for my project that aren't in kicad from scratch. This saves time and also has more streamlined ordering method as easy eda and jlcpcb are heavily linked
 
 
 ![SCH_Schematic1_1-P1_2025-10-16.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0ea18cb5e947db377b683e56a928237183d339cc/SCH_Schematic1_1-P1_2025-10-16.png)
+  
+
+## 10/16/2025 11 PM - Routed PCB  
+
+I routed the pcb across 2 layers this design includes pin tabs that reach the outermost part of the board but causes errors as a consequence although this should be fine, at least I hope it will. This operates with 1x7 pins with the same pin out as the Seeed Studio Xiao Rp2040.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7675b58e7f4ded3de89d0830c38b6cabb6ed223a/image.png)
+
   
 
