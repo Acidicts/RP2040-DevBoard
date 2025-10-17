@@ -55,10 +55,26 @@ All images from [here](https://hackclub.com/brand/)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--968207794ce6e56cfd7114c68a6d6a49c7e491ed/image.png)
   
 
-## 10/17/2025 - Created Order on JLC PCB  
+## 10/17/2025 5:19 PM - Created Order on JLC PCB  
 
 I created production files and edited BOM and CPL to be correct as some Capacitors were set to the wrong value. This was also spent adding images to my README.md although they aren't organised the best. Instead, they are below the important text, so it is more like a gallery below and not a detailed explanation.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--a437eab1760be849e9270ddd2f9a230892e073d6/image.png)
+  
+
+## 10/17/2025 5:55 PM - Did a touch up to my README  
+
+Did a touch up to my README:
+- Resized images
+- removed an image
+- added pinout info
+- added debug pinout info ( swd, gnd, swclk )
+- improved summary
+- corrected file path
+
+This improved readability, and improved the experience of reading and viewing the README.md
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4MywicHVyIjoiYmxvYl9pZCJ9fQ==--58e9fc1ff2a8055ad9412b621d4c161a75f2f0fc/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--c8d7b48107615573695f2a7d4e96be5d243522f3/image.png)
   
 
