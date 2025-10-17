@@ -1,10 +1,35 @@
-This is A RP2040 Devboard, which has the same pinout on the side as the Seed Studio Xiao RP2040.
+This RP2040 Devboard is a board with a similar pin out as the [Seeed Studio Xiao RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html).
 
-The following images are the rendered pcb, schematic and pcb in editor.
+This was created as using full sized-picos takes more room from your board, whilst you need few pins for a oled display that updates from the web or other low complexity device.
 
-The use of this is a more compact pico with minimal pins to make it suitable for smaller projects.
-The Pins it has out are all ADC pin VBUS, +3V3, GND, and GPIO pins 0-4 and, GPIO pins 6 and 7
-### production.zip contains:
+## Interface
+You interface with it via the:
+- USB-C Port
+- RESET Button
+- BOOTSEL Button
+
+## Pins
+Looking down on the board (usb-c port at the top),
+### On the Left:
+- GPIO Pin 26 ADC
+- GPIO Pin 27 ADC
+- GPIO Pin 28 ADC
+- GPIO Pin 29 ADC
+- GPIO Pin 6
+- GPIO Pin 7
+- GPIO Pin 0
+
+### On the Right:
+- 5V / VBUS
+- GND
+- +3V3
+- GPIO Pin 3
+- GPIO Pin 4
+- GPIO Pin 2
+- GPIO Pin 1
+
+## Production?
+### Look here at *production/production.zip* which contains:
 - gerber.zip
 - BOM.csv
 - CPL.csv
