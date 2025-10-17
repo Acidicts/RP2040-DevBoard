@@ -9,24 +9,18 @@ You interface with it via the:
 - BOOTSEL Button
 
 ## Pins
-Looking down on the board (usb-c port at the top),
-### On the Left:
-- GPIO Pin 26 ADC
-- GPIO Pin 27 ADC
-- GPIO Pin 28 ADC
-- GPIO Pin 29 ADC
-- GPIO Pin 6
-- GPIO Pin 7
-- GPIO Pin 0
+### Looking down on the board (usb-c port at the top),
 
-### On the Right:
-- 5V / VBUS
-- GND
-- +3V3
-- GPIO Pin 3
-- GPIO Pin 4
-- GPIO Pin 2
-- GPIO Pin 1
+| **Left Side Pins**   |  Middle  | **Right Side Pins** |
+|----------------------|----|---------------------|
+| GPIO Pin 26 (ADC0)   |  USB - C Port  | 5V / VBUS           |
+| GPIO Pin 27 (ADC1)   |    | GND                 |
+| GPIO Pin 28 (ADC2)   |    | +3V3                |
+| GPIO Pin 29 (ADC3)   |    | GPIO Pin 3          |
+| GPIO Pin 6           |    | GPIO Pin 4          |
+| GPIO Pin 7           |    | GPIO Pin 2          |
+| GPIO Pin 0           |    | GPIO Pin 1          |
+
 
 ## Production?
 ### Look here at *production/production.zip* which contains:
