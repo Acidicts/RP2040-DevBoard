@@ -20,6 +20,8 @@ You interface with it via the:
 | GPIO Pin 6           |    | GPIO Pin 4          |
 | GPIO Pin 7           |    | GPIO Pin 2          |
 | GPIO Pin 0           |    | GPIO Pin 1          |
+| | | |
+| SWD | GND| SWCLK |
 
 
 ## Production?
