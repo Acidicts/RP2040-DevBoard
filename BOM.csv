@@ -1,4 +1,4 @@
-No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier
+No.,Quantity,Comment,Comment,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier
 1,2,TS-1088-AR02016,"Bootsel,RESET",SW-SMD_L3.9-W3.0-P4.45,,TS-1088-AR02016,XUNPU(??),C720477,LCSC
 2,2,33pF,"C1,C2",C0201,33pF,,,,
 3,2,10uF,"C3,C4",C0201,10uF,,,,
@@ -17,3 +17,4 @@ No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,S
 16,1,TYPE-C-31-M-12,USBC1,USB-C_SMD-TYPE-C-31-M-12_1,,TYPE-C-31-M-12,????,C165948,LCSC
 17,1,12MHz,X1,CRYSTAL-SMD_4P-L3.2-W2.5-BL,12MHz,X322512MSB4SI,YXC(????),C9002,LCSC
 ,,,,,,,,,
+
