@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **RP 2040 Dev Board**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/487).
-
-
 ## 10/13/2025 - Made Schematic  
 
 Created Schematic
@@ -76,5 +72,12 @@ This improved readability, and improved the experience of reading and viewing th
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4MywicHVyIjoiYmxvYl9pZCJ9fQ==--58e9fc1ff2a8055ad9412b621d4c161a75f2f0fc/image.png)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--c8d7b48107615573695f2a7d4e96be5d243522f3/image.png)
+  
+
+## 10/20/2025 - Corrected Chip used  
+
+Changed chip as the one previously selected was a 128mbit chip instead of 16mbit this wouldn't be compatible with the rp2040 due to it having a max flash size 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgzMywicHVyIjoiYmxvYl9pZCJ9fQ==--94cdf6c3f52391c62d997f0f61276228f698bcb4/image.png)
   
 
