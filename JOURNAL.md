@@ -88,3 +88,10 @@ I got a new cart with corrected amounts to lower price of the pcb into the brack
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--07dca0387d04e62c8ff0a353a77def9cc588a8b7/image.png)
   
 
+## 10/26/2025 - Redesigned PCB  
+
+I redesigned the pcb to comply with jlcpcb's economic pcba ordering requirements. I had 201 capacitor components but they don't support those for economic pcba.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--2e8f9fefd349bd91c246fa5772a206041bd49f44/image.png)
+  
+
