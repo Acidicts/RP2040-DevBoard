@@ -88,10 +88,17 @@ I got a new cart with corrected amounts to lower price of the pcb into the brack
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--07dca0387d04e62c8ff0a353a77def9cc588a8b7/image.png)
   
 
-## 10/26/2025 - Redesigned PCB  
+## 10/26/2025 11 AM - Redesigned PCB  
 
 I redesigned the pcb to comply with jlcpcb's economic pcba ordering requirements. I had 201 capacitor components but they don't support those for economic pcba.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--2e8f9fefd349bd91c246fa5772a206041bd49f44/image.png)
+  
+
+## 10/26/2025 12 PM - Created Order on JLC PCB  
+
+Created an order on jlcpcb with the new parts and decreased extended parts on the BOM to make it cheaper. All capacitors and resistors are now 0603 footprint.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--111f968b961f3de6d715d2ddf0a025e616e22ff5/image.png)
   
 
