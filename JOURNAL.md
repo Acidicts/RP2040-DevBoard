@@ -102,7 +102,7 @@ Created an order on jlcpcb with the new parts and decreased extended parts on th
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--111f968b961f3de6d715d2ddf0a025e616e22ff5/image.png)
   
 
-## 10/26/2025 5 PM - Made 3d model  
+## 10/26/2025 5 PM - Made 3d model -0.3hrs  
 
 3D model created using easyeda's premade stuff and manually imported models. This will allow cases to be built more easily as it provides an idea of how the board is shaped.
 
