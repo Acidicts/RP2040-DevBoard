@@ -95,7 +95,7 @@ I redesigned the pcb to comply with jlcpcb's economic pcba ordering requirements
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--2e8f9fefd349bd91c246fa5772a206041bd49f44/image.png)
   
 
-## 10/26/2025 12 PM - Created Order on JLC PCB  
+## 10/26/2025 12 PM - Created Order on JLC PCB - 0.4hrs  
 
 Created an order on jlcpcb with the new parts and decreased extended parts on the BOM to make it cheaper. All capacitors and resistors are now 0603 footprint.
 
