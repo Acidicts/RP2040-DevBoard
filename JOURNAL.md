@@ -40,7 +40,7 @@ I routed the pcb across 2 layers this design includes pin tabs that reach the ou
 This is rendered with a blue pcb as it was the default pcb it gave me, this shows the individual parts of the pcb: resistors, mcu, capacitors, linear voltage regulator, usb-c port ( Universal Serial Bus - Type C )
 ** END OF YAP **  
 
-## 10/16/2025 11:42 PM - Added HackClub Branding  
+## 10/16/2025 11:42 PM - Added HackClub Branding - 0.5hrs  
 
 Added HackClub stuff onto the pcb to show where it came from no matter who is looking at it, and free marketing is always fun, right? Added orpheus-flag-top and hackclub-rounded-icon. as there was empty space on the back and there was a perfect slant on the board outline for the orpheus flag top
 
