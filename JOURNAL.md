@@ -24,7 +24,7 @@ I moved my project from kicad to easyeda due to footprints being on easy eda alr
 ![SCH_Schematic1_1-P1_2025-10-16.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0ea18cb5e947db377b683e56a928237183d339cc/SCH_Schematic1_1-P1_2025-10-16.png)
   
 
-## 10/16/2025 11:26 PM - Routed PCB  
+## 10/16/2025 11:26 PM - Routed PCB - 4hrs  
 
 I routed the pcb across 2 layers this design includes pin tabs that reach the outermost part of the board but causes errors as a consequence although this should be fine, at least I hope it will. This operates with 1x7 pins with the same pin out as the Seeed Studio Xiao Rp2040.
 
