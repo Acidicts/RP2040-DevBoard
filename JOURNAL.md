@@ -32,7 +32,7 @@ I routed the pcb across 2 layers this design includes pin tabs that reach the ou
 
   
 
-## 10/16/2025 11:29 PM - Quick Render ;D  
+## 10/16/2025 11:29 PM - Quick Render ;D - 0.1hrs  
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--563d01eb91d56996a19f6d3b36476d40253ad063/image.png)
 
