@@ -58,7 +58,7 @@ I created production files and edited BOM and CPL to be correct as some Capacito
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--a437eab1760be849e9270ddd2f9a230892e073d6/image.png)
   
 
-## 10/17/2025 5:55 PM - Did a touch up to my README  
+## 10/17/2025 5:55 PM - Did a touch up to my README - 0.5hrs  
 
 Did a touch up to my README:
 - Resized images
