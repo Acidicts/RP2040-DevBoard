@@ -16,7 +16,7 @@ Potentially even using the same footprint to make it potentially interchangeable
 ![Screenshot 2025-10-13 224015.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--a13cecdbc721870ebf5454fe54a473f8c8e8e33c/Screenshot%202025-10-13%20224015.png)
   
 
-## 10/16/2025 9 PM - Kicad to Easy Eda  
+## 10/16/2025 9 PM - Kicad to Easy Eda - 2hrs  
 
 I moved my project from kicad to easyeda due to footprints being on easy eda already which means I don't need to create each of the footprints for my project that aren't in kicad from scratch. This saves time and also has more streamlined ordering method as easy eda and jlcpcb are heavily linked
 
