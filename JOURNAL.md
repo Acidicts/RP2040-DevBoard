@@ -81,7 +81,7 @@ Changed chip as the one previously selected was a 128mbit chip and 16mbit would 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgzMywicHVyIjoiYmxvYl9pZCJ9fQ==--94cdf6c3f52391c62d997f0f61276228f698bcb4/image.png)
   
 
-## 10/20/2025 10:44 PM - Got new cart image  
+## 10/20/2025 10:44 PM - Got new cart image -0.2hrs  
 
 I got a new cart with corrected amounts to lower price of the pcb into the bracket below tier 3. this will overall decrease total cost to blueprint and allow them to support more projects like this.
 
