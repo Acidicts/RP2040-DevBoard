@@ -74,9 +74,9 @@ This improved readability, and improved the experience of reading and viewing th
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--c8d7b48107615573695f2a7d4e96be5d243522f3/image.png)
   
 
-## 10/20/2025 10:30 PM - Corrected Chip used  
+## 10/20/2025 10:30 PM - Corrected Chip used -0.5hrs  
 
-Changed chip as the one previously selected was a 128mbit chip instead of 16mbit this wouldn't be compatible with the rp2040 due to it having a max flash size 
+Changed chip as the one previously selected was a 128mbit chip and 16mbit would be more suitable for this project which is learning mcu devboard design.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgzMywicHVyIjoiYmxvYl9pZCJ9fQ==--94cdf6c3f52391c62d997f0f61276228f698bcb4/image.png)
   
