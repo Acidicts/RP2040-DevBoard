@@ -51,7 +51,7 @@ All images from [here](https://hackclub.com/brand/)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--968207794ce6e56cfd7114c68a6d6a49c7e491ed/image.png)
   
 
-## 10/17/2025 5:19 PM - Created Order on JLC PCB  
+## 10/17/2025 5:19 PM - Created Order on JLC PCB -1hrs  
 
 I created production files and edited BOM and CPL to be correct as some Capacitors were set to the wrong value. This was also spent adding images to my README.md although they aren't organised the best. Instead, they are below the important text, so it is more like a gallery below and not a detailed explanation.
 
